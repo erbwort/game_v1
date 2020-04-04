@@ -234,7 +234,7 @@ html, body {
 .particle a {
     position: absolute;
     height: 10vh;
-    top: 22%;
+    top: 15%;
     width: 50%;
     transform: translateY(-50%);
     transform: translateX(-50%);
