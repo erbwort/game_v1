@@ -12,14 +12,14 @@ var questions = [
     ["Aus welchem Land kommt Greta Thunberg?", "Schweden", "Norwegen", "Dänemark", "Niederlanden"],
     ["Womit sollte man seine Einkäufe transportieren?", "Eigene Tasche", "Plastiktüte", "Papiertüte", "ohne Tasche"],
     ["Wieviel Prozent Plasitk wird in Deutschland recycelt?", "16%", "57%", "42%", "89%"],
-    ["Frage", "RICHTIG", "falsch", "falsch", "falsch"],
-    ["Frage", "RICHTIG", "falsch", "falsch", "falsch"],
-    ["Frage", "RICHTIG", "falsch", "falsch", "falsch"],
-    ["Frage", "RICHTIG", "falsch", "falsch", "falsch"],
-    ["Frage", "RICHTIG", "falsch", "falsch", "falsch"],
-    ["Frage", "RICHTIG", "falsch", "falsch", "falsch"],
-    ["Frage", "RICHTIG", "falsch", "falsch", "falsch"],
-    ["Frage", "RICHTIG", "falsch", "falsch", "falsch"],
+    ["Was sollte nicht am Strand liegen?", "Plastiktüte", "Muscheln", "Steine", "Korallen"],
+    ["Was kann man nur schwer recyceln?", "Tetra Pak", "Glasfalsche", "Plastikflasche", "Dosen"],
+    ["Womit kann man Strom am CO2 neutralsten erzeugen? ", "Uran", "Steinkohle", "Erdgas", "Erdöl"],
+    ["Wann soll das letzte Kernkraftwerk in Deutschland abgeschaltet werden?", "2022", "2030", "2025", "2050"],
+    ["Was kommt nicht in den Kompost?", "Fleisch", "Gemüsereste", "Verfaultes Obst", "Kaffeefilter"],
+    ["Was kann CO2 speichern?", "Bäume", "Lithiumionenakku", "Steine", "Stoff"],
+    ["Welches Lebensmittel ist der größte Klimakiller?", "Butter", "Gemüse", "Rindfleisch", "Soya"],
+    ["Wie kann man nicht CO2 Austoß im Alltag reduzieren?", "Heizen", "Secondhand", "Minimalismus", "Lüften"],
     ];
 
 function selectDifficulty(x) {
